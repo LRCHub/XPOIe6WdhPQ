@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "VORACITY",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2026-02-18T14:19:54.983212Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VORACITY",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/01_VORACITY_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "VORACITY",
+      "artist": "宮下 遊",
+      "has_synced": false,
+      "path": "select/02_VORACITY_宮下_遊.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "VORACITY",
+      "artist": "Myth & Roid",
+      "has_synced": true,
+      "path": "select/03_VORACITY_Myth_&_Roid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Voracity",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/04_Voracity_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Voracity (From \"Overlord III\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/05_Voracity_(From__Overlord_III_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Voracity (Overlord III)",
+      "artist": "Shayne Orok",
+      "has_synced": false,
+      "path": "select/06_Voracity_(Overlord_III)_Shayne_Orok.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Overlord 3 Op - Voracity",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/07_Overlord_3_Op_-_Voracity_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "OVERLORD 3 OP - VORACITY",
+      "artist": "Raon",
+      "has_synced": true,
+      "path": "select/08_OVERLORD_3_OP_-_VORACITY_Raon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "VORACITY",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/09_VORACITY_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "VORACITY",
+      "artist": "Myth & Roid",
+      "has_synced": true,
+      "path": "select/10_VORACITY_Myth_&_Roid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Voracity\u0000",
+      "artist": "Amalee\u0000",
+      "has_synced": false,
+      "path": "select/11_Voracity\u0000_Amalee\u0000.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "VORACITY",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/12_VORACITY_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Voracity",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/13_Voracity_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Voracity (Overlord III)",
+      "artist": "Miura Jam",
+      "has_synced": false,
+      "path": "select/14_Voracity_(Overlord_III)_Miura_Jam.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VORACITY",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_VORACITY_MYTH_&_ROID.txt"
+    }
+  ]
+}
